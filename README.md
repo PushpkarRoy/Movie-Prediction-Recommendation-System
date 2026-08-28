@@ -15,7 +15,7 @@
 
 ---
 
-## 🍿 Why This Project?
+## 🍿 Why This Project?    
 
 With thousands of movies available across streaming platforms, finding the next movie to watch can become surprisingly difficult.
 
