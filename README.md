@@ -13,7 +13,7 @@
   <img src="https://img.shields.io/badge/Jupyter-Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter">
 </p>
 
----
+---  
 
 ## 🍿 Why This Project?                
 
