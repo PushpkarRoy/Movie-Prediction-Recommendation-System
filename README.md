@@ -3,7 +3,7 @@
 <p align="center">
   <strong>Discover what to watch next — powered by Machine Learning.</strong><br>
   A content-based movie recommendation system that transforms movie information into meaningful numerical features and recommends films based on similarity.
-</p>
+</p> 
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3.x-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
