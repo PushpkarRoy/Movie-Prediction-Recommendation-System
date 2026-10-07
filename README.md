@@ -25,7 +25,7 @@ This project explores a practical Machine Learning approach to that problem:
 
 The system uses **content-based filtering** to analyze movie information, convert text into numerical representations using **TF-IDF**, calculate similarity with **Cosine Similarity**, and return relevant recommendations.
    
----
+---    
 
 ## 🚀 Project Highlights
 
