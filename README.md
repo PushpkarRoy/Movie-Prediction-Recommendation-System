@@ -18,7 +18,7 @@
 ## 🍿 Why This Project?                        
 
 With thousands of movies available across streaming platforms, finding the next movie to watch can become surprisingly difficult.
-
+    
 This project explores a practical Machine Learning approach to that problem:
    
 > **Given a movie a user likes, can we find other movies with similar characteristics?**
